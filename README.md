@@ -21,4 +21,4 @@ O arquivo **`SqlServerQueries.pdf`** contém 5 consultas para recuperar informa�
 
 Aqui está uma imagem da minha nota na disciplina de **Modelagem e Projeto de Banco de Dados**:
 
-![Minhas Notas da Faculdade](https://github.com/wisidev/db/blob/main/img/nota.png)
+![Minhas Notas da Faculdade](https://github.com/wisidev/db/blob/main/exam_notes/exam_notes.png)
