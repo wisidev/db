@@ -15,7 +15,7 @@ Este portfólio foi desenvolvido exclusivamente para a empresa **SPC Brasil**.
 
 ## PDF de Consultas
 
-O arquivo **`SqlServerQueries.pdf`** contém 5 consultas para recuperar informações específicas dos arquivos CSV usando SQL Server.
+O arquivo **`queries.pdf`** contém 5 consultas para recuperar informações específicas dos arquivos CSV usando SQL Server.
 
 ## Minhas Notas da Faculdade
 
