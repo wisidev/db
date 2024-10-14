@@ -1,7 +1,3 @@
-# Portfólio para SPC Brasil
-
-Este portfólio foi desenvolvido exclusivamente para a empresa **SPC Brasil**.
-
 ## Tecnologia Utilizada
 
 - **SQL Server**: Utilizado para realizar consultas SQL nos arquivos CSV.
